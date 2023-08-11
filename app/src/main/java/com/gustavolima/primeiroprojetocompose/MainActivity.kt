@@ -57,7 +57,7 @@ class MainActivity : ComponentActivity() {
 
                         count++
                     }) {
-                        Text(text = "Click-me")
+                        Text(text = "Count")
                     }
 
                 }
